@@ -1,7 +1,7 @@
 import math
 import random
-from pygame import *
-#from pygame import mixer
+import pygame
+from pygame import mixer
 
 pygame.init()
 # Creating Screen
